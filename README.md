@@ -1,5 +1,12 @@
-# Github pages project site
-theme from scratch
+# Github pages project site (theme from scratch)
+one site per GitHub account and organization, and unlimited project sites
+- choose pre-built themes, or to create a site from scratch
+- Head over to GitHub.com and create a new repository, or go to an existing one
+- Create an index.html and type some HTML content into the editor
+- Scroll to the bottom of the page and commit the new file
+- Click on the Settings tab and scroll down to the GitHub Pages
+- select the main branch source and click on the Save
+- you're done! go to http://username.github.io/repository
 
 https://pages.github.com/
 
