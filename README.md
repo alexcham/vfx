@@ -76,7 +76,7 @@ https://docs.github.com/en/repositories/working-with-files/managing-large-files/
 		</style>
 	</head>
 	<body>
-		<script type="module" src="reponame/main.js"></script>
+		<script type="module" src="main.js"></script>
 	</body>
 </html>
 ```
