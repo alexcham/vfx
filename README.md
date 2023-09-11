@@ -54,7 +54,8 @@ https://docs.github.com/en/repositories/working-with-files/managing-large-files/
 
 
 
-# Three.js Installation
+# Three.js Option 2: Import from a CDN
+https://threejs.org/docs/#manual/en/introduction/Installation
 
 ```html
 <!DOCTYPE html>
@@ -97,4 +98,6 @@ IMPORTANT: Import all dependencies from the same version of three.js, and from t
 three.js components — such as controls, loaders, and post-processing effects — are part of the addons/
 Addons do not need to be installed separately, but do need to be imported separately
 
+
+# @TODO Three.js Option 1: Install with NPM and a build tool
 https://threejs.org/docs/#manual/en/introduction/Installation
